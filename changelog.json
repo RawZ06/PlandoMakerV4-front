@@ -1,0 +1,10 @@
+[
+	{
+		"version": "v4 - Alpha 0.1",
+		"type": "alpha",
+		"content": [
+			"Create a new website with React instead of Vue",
+			"Create a back-end to generate seed"
+		]
+	}
+]
